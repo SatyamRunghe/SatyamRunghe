@@ -1,4 +1,4 @@
-# Hi 👋 I'm Satyam
+# Hi 👋 I'm Satyam Runghe
 
 🎓 **1st Year CS IT Student**  
 💻 **Python Developer | Arduino Enthusiast | Tech Learner**  
@@ -38,7 +38,7 @@
 - GitHub: https://github.com/SatyamRunghe  
 - Location: Chhindwara, Madhya Pradesh, India  
 - Email: satyamdrunghe11@gmail.com 
-
----
+- linkedIn: 
+---www.linkedin.com/in/satyamrunghe
 
 ⭐ **Thanks for visiting my profile!**<!--
