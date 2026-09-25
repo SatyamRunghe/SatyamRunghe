@@ -1,6 +1,6 @@
 # Hi 👋 I'm Satyam Runghe
 
-🎓 **1st Year CS IT Student**  
+🎓 **2nd Year CS IT Student**  
 💻 **Python Developer | Arduino Enthusiast | Tech Learner**  
 🚀 Passionate about building projects and learning how software and hardware systems work
 
